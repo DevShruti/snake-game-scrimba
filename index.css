@@ -1,0 +1,26 @@
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0 auto;
+}
+
+.container {
+  width: 800px;
+  border: 10px, solid, rgb(7, 0, 12);
+  background-color: rgb(187, 187, 240);
+  margin: 0 auto;
+  text-align: center;
+}
+
+.grid {
+  width: 100px;
+  height: 100px;
+  background-color: yellowgreen;
+  text-align: center;
+  margin: 0 auto;
+
+  border: black;
+}
+
+button {
+  margin: 50px;
+}
