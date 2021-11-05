@@ -2,7 +2,7 @@
 
 A simple snake game with HTML, CSS and Javascript
 
-Play the game here : (https://snake-game-scrimba.vercel.app/)
+Play the game here : ![link to game](https://snake-game-scrimba.vercel.app/)
 
 ![Javascript methods learnt](/images/Screenshot.png)
 
