@@ -4,6 +4,7 @@ A simple snake game with HTML, CSS and Javascript
 
 Play the game here : [link to game](https://snake-game-scrimba.vercel.app/)
 
+Concepts learnt in this code: 
 ![Javascript methods learnt](/images/Screenshot.png)
 
 
