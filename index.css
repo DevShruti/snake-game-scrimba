@@ -5,7 +5,6 @@ body {
 
 .container {
   width: 1200px;
-
   background-color: rgb(187, 187, 240);
   margin: 0 auto;
   text-align: center;
@@ -39,4 +38,8 @@ button {
 
 .snake {
   background-color: teal;
+}
+
+.apple {
+  background-color: tomato;
 }
