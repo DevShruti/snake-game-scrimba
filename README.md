@@ -4,6 +4,6 @@ A simple snake game with HTML, CSS and Javascript
 
 ![Javascript methods learnt](/images/Screenshot.png)
 
-![snake game video](/snakegame.mp4)
 
-https://watch.screencastify.com/v/rKwBZ6fLFbrhFZtAsg96
+https://user-images.githubusercontent.com/85759426/140500674-561f3b8e-a15a-44c8-a4d9-a0b432be99c7.mp4
+
